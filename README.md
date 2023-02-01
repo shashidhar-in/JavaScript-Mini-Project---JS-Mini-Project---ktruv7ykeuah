@@ -11,5 +11,7 @@ Tech Stack Used:
 - Css
 - JavaScript
 
+[![This is how it looks like](https://github.com/shashidhar-in/JavaScript-Mini-Project---JS-Mini-Project---ktruv7ykeuah/blob/master/spotify.jpg.jpg?raw=true "This is how it looks like")](https://github.com/shashidhar-in/JavaScript-Mini-Project---JS-Mini-Project---ktruv7ykeuah/blob/master/spotify.jpg.jpg?raw=true "This is how it looks like")
+
 Hosted Link For the above application:
 (https://spotify-ssd.netlify.app/)
