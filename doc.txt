@@ -1,0 +1,7 @@
+font-family: 'Varela Round', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+It is inspired by the user interface of a famous music application called
+
+The user inteface of this application was inspired by the famous music application called 
